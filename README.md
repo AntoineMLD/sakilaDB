@@ -1,6 +1,6 @@
 Sakila Database
 
-Ce projet illustre l'utilisation de la base de données de démonstration Sakila avec MySQL.
+Ce projet illustre l'utilisation de la base de données de démonstration Sakila avec SQLlite et DBeaver.
 Objectif
 
 L'objectif est de fournir des exemples concrets d'utilisation de cette base de données pour :
